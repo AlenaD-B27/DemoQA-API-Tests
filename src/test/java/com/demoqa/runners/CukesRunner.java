@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
 
         features = "src/test/resources/features",
                 glue = "com/demoqa/step_defenitions",
-                dryRun = true,
+                dryRun = false,
                 tags = ""
 
     )
